@@ -1,0 +1,8 @@
+C:\Users\acer\Desktop\Aurionpro\Training\Assignments\6\BoxingAndUnboxing\TryParseExample\TryParseExample\bin\Debug\TryParseExample.exe.config
+C:\Users\acer\Desktop\Aurionpro\Training\Assignments\6\BoxingAndUnboxing\TryParseExample\TryParseExample\bin\Debug\TryParseExample.exe
+C:\Users\acer\Desktop\Aurionpro\Training\Assignments\6\BoxingAndUnboxing\TryParseExample\TryParseExample\bin\Debug\TryParseExample.pdb
+C:\Users\acer\Desktop\Aurionpro\Training\Assignments\6\BoxingAndUnboxing\TryParseExample\TryParseExample\obj\Debug\TryParseExample.csproj.AssemblyReference.cache
+C:\Users\acer\Desktop\Aurionpro\Training\Assignments\6\BoxingAndUnboxing\TryParseExample\TryParseExample\obj\Debug\TryParseExample.csproj.SuggestedBindingRedirects.cache
+C:\Users\acer\Desktop\Aurionpro\Training\Assignments\6\BoxingAndUnboxing\TryParseExample\TryParseExample\obj\Debug\TryParseExample.csproj.CoreCompileInputs.cache
+C:\Users\acer\Desktop\Aurionpro\Training\Assignments\6\BoxingAndUnboxing\TryParseExample\TryParseExample\obj\Debug\TryParseExample.exe
+C:\Users\acer\Desktop\Aurionpro\Training\Assignments\6\BoxingAndUnboxing\TryParseExample\TryParseExample\obj\Debug\TryParseExample.pdb

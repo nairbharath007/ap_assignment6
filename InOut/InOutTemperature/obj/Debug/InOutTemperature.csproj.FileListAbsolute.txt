@@ -1,0 +1,8 @@
+C:\Users\acer\Desktop\Aurionpro\Training\Assignments\6\BoxingAndUnboxing\InOut\InOutTemperature\bin\Debug\InOutTemperature.exe.config
+C:\Users\acer\Desktop\Aurionpro\Training\Assignments\6\BoxingAndUnboxing\InOut\InOutTemperature\bin\Debug\InOutTemperature.exe
+C:\Users\acer\Desktop\Aurionpro\Training\Assignments\6\BoxingAndUnboxing\InOut\InOutTemperature\bin\Debug\InOutTemperature.pdb
+C:\Users\acer\Desktop\Aurionpro\Training\Assignments\6\BoxingAndUnboxing\InOut\InOutTemperature\obj\Debug\InOutTemperature.csproj.AssemblyReference.cache
+C:\Users\acer\Desktop\Aurionpro\Training\Assignments\6\BoxingAndUnboxing\InOut\InOutTemperature\obj\Debug\InOutTemperature.csproj.SuggestedBindingRedirects.cache
+C:\Users\acer\Desktop\Aurionpro\Training\Assignments\6\BoxingAndUnboxing\InOut\InOutTemperature\obj\Debug\InOutTemperature.csproj.CoreCompileInputs.cache
+C:\Users\acer\Desktop\Aurionpro\Training\Assignments\6\BoxingAndUnboxing\InOut\InOutTemperature\obj\Debug\InOutTemperature.exe
+C:\Users\acer\Desktop\Aurionpro\Training\Assignments\6\BoxingAndUnboxing\InOut\InOutTemperature\obj\Debug\InOutTemperature.pdb
