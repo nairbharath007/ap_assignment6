@@ -8,34 +8,62 @@ namespace ParamsWriteLine
 {
     internal class Program
     {
-        static void Main(string[] args)
+        public class MyClass
         {
-            int sum1 = AddNumbers(1, 2, 3);
-            Console.WriteLine("Sum 1: " + sum1);
-
-            int sum2 = AddNumbers(10, 20, 30, 40, 50);
-            Console.WriteLine("Sum 2: " + sum2);
-
-            int sum3 = AddNumbers(100);
-            Console.WriteLine("Sum 3: " + sum3);
-
-            int[] moreNumbers = { 6, 7, 8, 9, 10 };
-            int sum4 = AddNumbers(moreNumbers);
-            Console.WriteLine("Sum 4: " + sum4);
-        }
-        public static int AddNumbers(params int[] numbers)
-        {
-            int sum = 0;
-            foreach (int number in numbers)
+            public static void UseParams(params int[] list)
             {
-                sum += number;
+                for (int i = 0; i < list.Length; i++)
+                {
+                    Console.Write(list[i] + " ");
+                }
+                Console.WriteLine();
             }
-            return sum;
+
+            public static void UseParams2(params object[] list)
+            {
+                for (int i = 0; i < list.Length; i++)
+                {
+                    Console.Write(list[i] + " ");
+                }
+                Console.WriteLine();
+            }
+
+            static void Main()
+            {
+                //Some examples of how to pass arguments in WriteLine()
+                Console.WriteLine("String: {0} {1}", "abc", 23);
+                Console.WriteLine("String: " + "10");
+
+                Console.WriteLine("int: " + 10);
+                Console.WriteLine("Float: {0}", 10.45);
+
+
+                // You can send a comma-separated list of arguments of the
+                // specified type.
+                UseParams(1, 2, 3, 4);
+                UseParams2(1, 'a', "test");
+
+                // A params parameter accepts zero or more arguments.
+                // The following calling statement displays only a blank line.
+                UseParams2();
+
+                // An array argument can be passed, as long as the array
+                // type matches the parameter type of the method being called.
+                int[] myIntArray = { 5, 6, 7, 8, 9 };
+                UseParams(myIntArray);
+
+                object[] myObjArray = { 2, 'b', "test", "again" };
+                UseParams2(myObjArray);
+
+                // The following call causes a compiler error because the object
+                // array cannot be converted into an integer array.
+                //UseParams(myObjArray);
+
+                // The following call does not cause an error, but the entire
+                // integer array becomes the first element of the params array.
+                UseParams2(myIntArray);
+            }
         }
 
     }
 }
-//WriteLine() does not have a params[] argument, since it is already an overloaded method for 
-//different datatypes and argument combinations.
-//Compiler automatically chooses overload based on arguments you have provided.
-

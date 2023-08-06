@@ -6,3 +6,11 @@ C:\Users\acer\Desktop\Aurionpro\Training\Assignments\6\BoxingAndUnboxing\ParamsW
 C:\Users\acer\Desktop\Aurionpro\Training\Assignments\6\BoxingAndUnboxing\ParamsWriteLine\ParamsWriteLine\obj\Debug\ParamsWriteLine.csproj.CoreCompileInputs.cache
 C:\Users\acer\Desktop\Aurionpro\Training\Assignments\6\BoxingAndUnboxing\ParamsWriteLine\ParamsWriteLine\obj\Debug\ParamsWriteLine.exe
 C:\Users\acer\Desktop\Aurionpro\Training\Assignments\6\BoxingAndUnboxing\ParamsWriteLine\ParamsWriteLine\obj\Debug\ParamsWriteLine.pdb
+C:\Users\acer\Desktop\Aurionpro\Training\Assignments\6\ParamsWriteLine\ParamsWriteLine\bin\Debug\ParamsWriteLine.exe.config
+C:\Users\acer\Desktop\Aurionpro\Training\Assignments\6\ParamsWriteLine\ParamsWriteLine\bin\Debug\ParamsWriteLine.exe
+C:\Users\acer\Desktop\Aurionpro\Training\Assignments\6\ParamsWriteLine\ParamsWriteLine\bin\Debug\ParamsWriteLine.pdb
+C:\Users\acer\Desktop\Aurionpro\Training\Assignments\6\ParamsWriteLine\ParamsWriteLine\obj\Debug\ParamsWriteLine.csproj.AssemblyReference.cache
+C:\Users\acer\Desktop\Aurionpro\Training\Assignments\6\ParamsWriteLine\ParamsWriteLine\obj\Debug\ParamsWriteLine.csproj.SuggestedBindingRedirects.cache
+C:\Users\acer\Desktop\Aurionpro\Training\Assignments\6\ParamsWriteLine\ParamsWriteLine\obj\Debug\ParamsWriteLine.csproj.CoreCompileInputs.cache
+C:\Users\acer\Desktop\Aurionpro\Training\Assignments\6\ParamsWriteLine\ParamsWriteLine\obj\Debug\ParamsWriteLine.exe
+C:\Users\acer\Desktop\Aurionpro\Training\Assignments\6\ParamsWriteLine\ParamsWriteLine\obj\Debug\ParamsWriteLine.pdb
